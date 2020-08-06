@@ -1,0 +1,9 @@
+sensor_accelerometer
+sensor_barometer
+sensor_gravimeter
+sensor_thermometer
+sensor_radiometer
+sensor_magnetometer
+sensor_cosmic_ray_detector
+sensor_visible_light_camera
+sensor_ultraviolet_camera
